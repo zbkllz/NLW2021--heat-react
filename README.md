@@ -9,7 +9,7 @@ For educational purposes, chilling and coding.
  2nd day - BackEnd :card_file_box: built with:
  
 - Typescript
-- Vite.js
+- ViteJS
 - Axios
 - ReactJS
 - Sass
